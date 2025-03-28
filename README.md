@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Hotel Management System(Java)**
 
-- 🌱 I’m currently learning **DSA, Devops**
+- 🌱 I’m currently learning **Devops**
 
 - 📫 How to reach me **abhisheksangamad1802@gmail.com**
 
