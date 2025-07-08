@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhi180902](https://github.com/abhi180902)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/abhi180902?tab=repositories)
 
 - 📝 My Portfolio [Portfolio link](abhishekss.onrender.com)
 
