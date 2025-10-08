@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhisheksangamad1802@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1G7sbnGhKbyOAeLYNqICYirPJTNlpY2LJ/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1EOgPXMDWJxHIUGF49HFuenVHaVsc530U/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
