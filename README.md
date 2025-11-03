@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek S Sangamad</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
-- 🔭 I’m currently working on [clickNbuy-Project](https://github.com/abhi180902/clickNBuy)
+- 🔭 I’m currently working on [eBanking-Project](https://github.com/abhi180902/eBanking)
 
 - 🌱 I’m currently learning **Java Full Stack**
 
